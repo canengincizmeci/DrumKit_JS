@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+}
+
+.tus {
+    display: flex;
+    width: 5%;
+    border: solid black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.tus p {
+    font-size: 22px;
+}
+
+.container {
+    display: flex;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
